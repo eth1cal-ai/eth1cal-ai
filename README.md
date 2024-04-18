@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Kristen (she/her)!
+
+--
+About Me
+📚 I'm a student at the University of Michigan passionate about front-end web development, public interest technology, and UX Design. 
+🌱 I’m currently learning Svelte, C++, and Python
 
 <!--
 **eth1cal-ai/eth1cal-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
