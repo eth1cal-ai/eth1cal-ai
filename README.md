@@ -8,8 +8,7 @@
 
 ### Languages
 <!-- icons for languages: https://github.com/tandpfun/skill-icons -->
-<img src="[![My Skills](https://skillicons.dev/icons?i=cpp,py,svelte,r&theme=light)](https://skillicons.dev)" alt="C++, Python, Svelte, and R."/>
-<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+<img src="https://skillicons.dev/icons?i=cpp,py,svelte,r&theme=light" alt="C plus plus, Python, Svelte, and R" />
 
 <!-- Github analytics site: https://github.com/anuraghazra/github-readme-stats -->
 <!-- ### GitHub Stats
