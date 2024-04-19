@@ -8,7 +8,8 @@
 
 ### Skills
 <!-- icons for languages: https://github.com/tandpfun/skill-icons 
-Also here: https://github.com/marwin1991/profile-technology-icons/blob/main/README.md -->
+Also here: https://github.com/marwin1991/profile-technology-icons/blob/main/README.md 
+These icons come with the names of languages: https://shields.io/docs/logos -->
 <img src="https://skillicons.dev/icons?i=cpp,py,svelte,r&theme=light" alt="C++, Python, Svelte, and R" />
 
 <!-- Github analytics site: https://github.com/anuraghazra/github-readme-stats -->
