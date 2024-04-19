@@ -1,7 +1,7 @@
-### Hi, I'm Kristen (she/her)!
+# Hi, I'm Kristen (she/her)!
 
 ---
-About Me
+## About Me   
 📚 I'm a student at the University of Michigan passionate about front-end web development, public interest technology, and UX Design.     
 🌱 I’m currently learning Svelte, C++, and Python    
 
