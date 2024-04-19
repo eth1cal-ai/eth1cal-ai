@@ -6,7 +6,7 @@
 ❤️‍🔥 &nbsp;I'm passionate about public interest and healthcare tech.       
 🌱 &nbsp;I’m currently learning about front-end web dev using Svelte.
 
-### Languages
+### Skills
 <!-- icons for languages: https://github.com/tandpfun/skill-icons 
 Also here: https://github.com/marwin1991/profile-technology-icons/blob/main/README.md -->
 <img src="https://skillicons.dev/icons?i=cpp,py,svelte,r&theme=light" alt="C++, Python, Svelte, and R" />
