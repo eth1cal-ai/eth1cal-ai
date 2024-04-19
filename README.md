@@ -1,25 +1,13 @@
-### &nbsp;Hi, I'm Kristen (she/her)! 
+## Hi, I'm Kristen (she/her)! 
 
-### &nbsp;About Me   
+### About Me   
 
-📚 &nbsp;I'm a rising third-year student at the University of Michigan.\ 
-❤️‍🔥 &nbsp;I'm passionate about about front-end web development, public interest technology, and UX Design.\  
-🌱 &nbsp;I’m currently learning Svelte, C++, and Python.\   
+📚 &nbsp;I'm a rising third-year student at the University of Michigan.  
+❤️‍🔥 &nbsp;I'm passionate about about front-end web development, public interest technology, and UX Design.  
+🌱 &nbsp;I’m currently learning C++, Python, and Svelte.      
 
----
-### Github Analytics
-
-<!--
-**eth1cal-ai/eth1cal-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ### Github Analytics
+[![Kristen's GitHub stats](https://github-readme-stats.vercel.app/api?username=eth1cal-ai)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eth1cal-ai&layout=compact) -->
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,svelte,r&theme=light)](https://skillicons.dev)
