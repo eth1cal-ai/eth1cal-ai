@@ -4,7 +4,7 @@
 
 📚 &nbsp;I'm a third-year student at the University of Michigan.   
 ❤️‍🔥 &nbsp;I'm passionate about public interest and healthcare tech.       
-🌱 &nbsp;I’m currently learning about front-end web dev using Svelte.
+🌱 &nbsp;I’m currently learning about front-end web dev using Svelte and React.
 
 ### Skills
 <!-- icons for languages: https://github.com/tandpfun/skill-icons 
