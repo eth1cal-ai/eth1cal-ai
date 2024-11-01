@@ -1,13 +1,13 @@
 ## Hi, I'm Kristen (she/her)! 
 
+### Check Out My Work
+https://kristensu.me/
+
 ### About Me
 
 📚 &nbsp;I'm a third-year student at the University of Michigan.   
 ❤️‍🔥 &nbsp;I'm passionate about public interest and healthcare tech.       
 🌱 &nbsp;I’m currently learning about front-end web dev using Svelte and React.
-
-### Check Out My Work
-https://kristensu.me/
 
 ### Skills
 <!-- icons for languages: https://github.com/tandpfun/skill-icons 
