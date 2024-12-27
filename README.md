@@ -5,7 +5,8 @@ https://kristensu.me/
 
 ### About Me
 
-📚 &nbsp;I'm a third-year student at the University of Michigan.   
+📚 &nbsp;I'm a third-year student at the University of Michigan.
+👩🏻‍💻 &nbsp;I work as a Web Developer for The Michigan Daily.  
 ❤️‍🔥 &nbsp;I'm passionate about public interest and healthcare tech.       
 🌱 &nbsp;I’m currently learning about front-end web dev using Svelte and React.
 
