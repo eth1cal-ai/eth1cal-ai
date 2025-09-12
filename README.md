@@ -5,7 +5,7 @@ https://kristensu.me/
 
 ### About Me
 
-📚 &nbsp;I'm a third-year student at the University of Michigan.  
+📚 &nbsp;I'm a fourth-year student at the University of Michigan.  
 👩🏻‍💻 &nbsp;I work as the Senior Software Engineer for <a href="https://michigandaily.github.io/">The Michigan Daily</a>.  
 ❤️‍🔥 &nbsp;I'm passionate about public interest and healthcare tech.       
 🌱 &nbsp;I’m currently learning about front-end web dev using Svelte and React.
